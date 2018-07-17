@@ -97,8 +97,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 2
   map_api_key = ""
-  latitude = "-76.5019"
-  longitude = "42.4440"
+  latitude = "42.4534"
+  longitude = "-76.4735"
   zoom = 15
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
@@ -268,7 +268,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Blog"
-  url = "#publications_selected"
+  url = "#blog"
   weight = 2
 
 [[menu.main]]
