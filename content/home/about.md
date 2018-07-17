@@ -10,31 +10,20 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Reinforcement Learning",
+    "Intelligent Sensing",
+    "Artificial Intelligence"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "BS in Electrical and Computer Engineering and Computer Science"
+  institution = "Cornell University"
+  year = 2020
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Welcome to my site!I'm a junior at Cornell University in Ithaca, New York. I grew up in metro-Atlanta and went to Alpharetta High School, located in suburban Atlanta. Right now, I'm looking at majoring in Electrical & Computer Engineering and Computer Science, with the ambition of applying novel machine learning algorithms and techniques to the real world. This site was a personal project that began the summer after my senior year in high school, as a way to explore web design in a functional and creative way. My goal is to share what I'm working on periodically as I work on new things. Take a look around and contact me if you have questions, concerns, or want to discuss anything!
