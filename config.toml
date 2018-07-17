@@ -50,15 +50,15 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Shubhom Bhattacharya"
+  role = "Undergraduate @ Cornell University"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -225,23 +225,27 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:sb2287@cornell.edu"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/shubhomb"
 
   [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/shubhom/"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/shubhomb"
 
+[[params.social]]
+    icon = "instagram"
+    icon_pack = "fa"
+    link = "https://www.instagram.com/shubhomb/"
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   # [[params.social]]
@@ -263,29 +267,19 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
+  name = "Blog"
   url = "#publications_selected"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
-
-[[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
-
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+  weight = 3
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 4
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
