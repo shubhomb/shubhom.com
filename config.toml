@@ -237,7 +237,7 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/shubhom/"
 
-  vn[[params.social]]
+  [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/shubhomb"
