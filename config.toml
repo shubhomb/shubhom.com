@@ -54,7 +54,7 @@ enableGitInfo = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "playfair"
 
   # Your details.
   name = "Shubhom Bhattacharya"
@@ -65,7 +65,7 @@ enableGitInfo = false
   organizations = [ { name = "Cornell University", url = "http://www.cornell.edu" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "me.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "me3.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "sb2287@cornell.edu"
   phone = "(678) 982-6356"
 
