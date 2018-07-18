@@ -2,6 +2,8 @@
 title = "XXXTentacion and Moral Absolutism"
 date = 2018-06-18T23:22:03-04:00
 draft = false
+
+
 summary = "XXXTentacion was one of the most controversial rising stars in hip-hop before his death. In considering his legacy, I argue that though his crimes are justifiably unforgiveable, his message and subsequent actions set him apart from his peers and can be commended independent of past misdeeds- that assessing XXXTentacion's legacy is more than the kind of labeling of "good" or "bad" that characterizes the judgments people in today's society all too often pass."
 
 
@@ -25,6 +27,7 @@ preview = true
 
 
 +++
+
 
 As many hip hop fans know, today, the rapper XXXTentacion was [shot and killed](https://www.cosmopolitan.com/entertainment/celebs/a21605295/rapper-xxxtentacion-shot-at-20/). Born Jahseh Onfroy, "XXX" was only 20 years old. XXX was a polarizing figure for the public- a promising artist with undeniable creativity and a depth of thought uncharacteristic of his youth, his adult life and short career were besmirched by violent confrontations and feuds with other rappers
 <!--more-->, the worst of which involved the [battery of his pregnant girlfriend](https://pigeonsandplanes.com/news/2017/09/xxxtentacion-charges).
