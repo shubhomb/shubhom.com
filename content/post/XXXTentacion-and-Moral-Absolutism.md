@@ -2,8 +2,6 @@
 title = "XXXTentacion and Moral Absolutism"
 date = 2018-06-18T23:22:03-04:00
 draft = false
-
-
 summary = "XXXTentacion was one of the most controversial rising stars in hip-hop before his death. In considering his legacy, I argue that though his crimes are justifiably unforgiveable, his message and subsequent actions set him apart from his peers and can be commended independent of past misdeeds- that assessing XXXTentacion's legacy is more than the kind of labeling of "good" or "bad" that characterizes the judgments people in today's society all too often pass."
 
 
