@@ -31,14 +31,14 @@ I thought I’d make my first real blog post about something cool I came across 
 So yeah, there’s a psychological phenomenon called “flow”, coined by Hungarian psychologist Mihaly Csikszentmihalyi (and people say my last name’s hard to pronounce). We actually experience “flow” all the time- it’s “the zone”, when you’re so absorbed in something that you lose sense of your surroundings. To Csikszentmihalyi, flow is a sort of transcendant state beyond happiness- that is to say, you’re not really happy when you experience it, but you are cognizant of its positive effect on your happiness after the fact. In fact, he talks about six factors that’re key to realizing flow, which are summarized [here](https://www.researchgate.net/publication/224927532_Flow_The_Psychology_of_Optimal_Experience):
 
 
-    * There are clear goals every stop of the way
-    * There is immediate feedback to one's actions
-    * Action and awareness are merged
-    * There is no worry of failure
-    * Distractions are excluded from consciousness
-    * Self-consciousness disappears
-    * The activity becomes autotelic
-    * The sense of time becomes distorted
+  * There are clear goals every stop of the way
+  * There is immediate feedback to one's actions
+  * Action and awareness are merged
+  * There is no worry of failure
+  * Distractions are excluded from consciousness
+  * Self-consciousness disappears
+  * The activity becomes autotelic
+  * The sense of time becomes distorted
 
 
 
