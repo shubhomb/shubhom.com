@@ -17,8 +17,8 @@ categories = []
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = "flow0.jpeg"
-caption = "Credit:[Hammad Akbar](http://www.hammadakbar.com/entrepreneurship/11-steps-to-achieving-flow-state/)"
+image = "flow0.png"
+caption = "Credit:[Videoblocks](https://www.videoblocks.com/video/energy-wave-flow-and-glow-particles-animation-on-dark-background-v2hpau9ve)"
 preview = true
 
 +++
