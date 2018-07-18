@@ -24,7 +24,7 @@ preview = true
 
 
 
-summary = "XXXTentacion was one of the most controversial rising stars in hip-hop before his death. In considering his legacy, I argue that though his crimes are justifiably unforgiveable, his message and subsequent actions set him apart from his peers and can be commended independent of past misdeeds- that assessing XXXTentacion's legacy is more than the kind of labeling of "good" or "bad" that characterizes the judgments people in today's society all too often pass."
+
 
 
 
@@ -32,7 +32,7 @@ summary = "XXXTentacion was one of the most controversial rising stars in hip-ho
 
 
 As many hip hop fans know, today, the rapper XXXTentacion was [shot and killed](https://www.cosmopolitan.com/entertainment/celebs/a21605295/rapper-xxxtentacion-shot-at-20/). Born Jahseh Onfroy, "XXX" was only 20 years old. XXX was a polarizing figure for the public- a promising artist with undeniable creativity and a depth of thought uncharacteristic of his youth, his adult life and short career were besmirched by violent confrontations and feuds with other rappers
-, the worst of which involved the [battery of his pregnant girlfriend](https://pigeonsandplanes.com/news/2017/09/xxxtentacion-charges).
+<!--more-->, the worst of which involved the [battery of his pregnant girlfriend](https://pigeonsandplanes.com/news/2017/09/xxxtentacion-charges).
 
 
 ![XXXTentacion](/img/xxxtentacion0.jpg)
@@ -60,3 +60,4 @@ Moral absolutism extends beyond the political arena. In essence, moral absolutis
 
 
 Which brings me back to XXX. What XXX's legacy means has no tangible correlation to most societal problems, but perhaps characterizing it allows us a chance to consider the good he did even through the irrefutable misdeeds he caused. Nobody will ever say XXXTentacion was a beacon of righteousness or  even someone they'd want to be around. Nobody should forget his crimes and their impact on the victims. But through it all, his positive influences should be acknowledged. In a time where mental health is a growing issue in our society, XXX gained many fans from his openness and positivity despite his wrongs. Whether for publicity or sheer generosity, he tried to atone for his actions through acts of charity, notable given that not many celebrities in hip-hop or otherwise attempt to do the same with crimes of their own to their name. In his songs, he regretted his actions and shared his thoughts, while encouraging listeners to follow better paths- to seek help, love one another, and believe in themselves. He did the same at his concerts, encouraging crowds to have confidence in their worth. That aspect of his legacy is important to recognize. Eventually, it doesn't matter if his music and his maturing persona compensated for the crimes he committed- in all probability, they did not and never would. What matters is that he tried to make an original, positive mark on music, an effort that merits commendation independent of everything else.
+
