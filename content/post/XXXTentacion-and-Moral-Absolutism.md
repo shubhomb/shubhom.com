@@ -4,10 +4,6 @@ date = 2018-06-18T23:22:03-04:00
 draft = false
 
 
-+++
-summary = "XXXTentacion was one of the most controversial rising stars in hip-hop before his death. In considering his legacy, I argue that though his crimes are justifiably unforgiveable, his message and subsequent actions set him apart from his peers and can be commended independent of past misdeeds- that assessing XXXTentacion's legacy is more than the kind of labeling of "good" or "bad" that characterizes the judgments people in today's society all too often pass."
-
-
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Shubhom"]
 
@@ -25,6 +21,11 @@ categories = []
 image = "xxxtentacion0.jpg"
 caption = "Credit: [Billboard](https://www.billboard.com/files/media/xxxtentacion-press-photo-bw-2018-billboard-1548.jpg)"
 preview = true
+
+
+
+summary = "XXXTentacion was one of the most controversial rising stars in hip-hop before his death. In considering his legacy, I argue that though his crimes are justifiably unforgiveable, his message and subsequent actions set him apart from his peers and can be commended independent of past misdeeds- that assessing XXXTentacion's legacy is more than the kind of labeling of "good" or "bad" that characterizes the judgments people in today's society all too often pass."
+
 
 
 +++
