@@ -28,7 +28,7 @@ preview = true
 
 
 As many hip hop fans know, today, the rapper XXXTentacion was [shot and killed](https://www.cosmopolitan.com/entertainment/celebs/a21605295/rapper-xxxtentacion-shot-at-20/). Born Jahseh Onfroy, "XXX" was only 20 years old. XXX was a polarizing figure for the public- a promising artist with undeniable creativity and a depth of thought uncharacteristic of his youth, his adult life and short career were besmirched by violent confrontations and feuds with other rappers
-<!--more-->, the worst of which involved the [battery of his pregnant girlfriend](https://pigeonsandplanes.com/news/2017/09/xxxtentacion-charges).
+, the worst of which involved the [battery of his pregnant girlfriend](https://pigeonsandplanes.com/news/2017/09/xxxtentacion-charges).
 
 
 ![XXXTentacion](/img/xxxtentacion0.jpg)
