@@ -24,6 +24,7 @@ weight = 5
  
 +++
 
-# Hey!
 
-Welcome to my personal site. I'm a junior at Cornell University in Ithaca, New York. I grew up in metro-Atlanta and went to Alpharetta High School, located in suburban Atlanta. Right now, I'm looking at majoring in Electrical & Computer Engineering and Computer Science with the intention of finding new ways to leverage the immense capabilities artificial intelligence provides. Outside of work, I'm a huge soccer fan and enjoy spending time with my friends and family. In creating this site, my goal is to share what I'm working on periodically as I work on new things. Take a look around and contact me if you have questions, concerns, or want to discuss anything!
+# Hey!
+## Welcome to my website.
+I'm a junior at Cornell University in Ithaca, New York. I was born and raised in metro-Atlanta. Currently, I'm majoring in Electrical & Computer Engineering and Computer Science with the intention of finding new ways to leverage the immense capabilities artificial intelligence provides. Outside of work, I'm a huge soccer fan and enjoy spending time with my friends and family. In creating this site, my goal is to share a bit about myself and the things I'm working on periodically. Take a look around and feel free to contact me if you have questions, concerns, or want to discuss anything!
