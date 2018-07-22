@@ -34,7 +34,7 @@ caption = ""
 
 
 
-For the first weekend of the break, I went to HackPrinceton with my friend [Jared Lim](https://junyounglim.github.io/), a CS major here at Cornell. We wanted to apply our machine learning experience with to build something useful. We learned about IBM Watson's API at the hackathon which greatly facilitated otherwise complicated tasks such as natural language processing. We teamed up with Jia Wei, another Cornellian, and after throwing around ideas, we went with one of my ideas: predicting stock values in the short run. Using datasets from the past, we could generate predictions of the future using ensemble regression methods. However, to account for day-to-day fluctuations, we would use article headlines from Google News collected by webhose.io and evaluate the relative tone using Watson API's natural language processing abilities and translational abilities. Then, if company X had some issue, the newsfeed would likely deliver a net negative tone which we could translate to a falling stock price the next day. Given a number of articles and how "negative" or "positive" the emotions associated with the headlines were, we could even be able to train our algorithm to quantify the degree of the fall in price. Hopefully, that'd allow the software to project stock price in real time.
+For the first weekend of spring break, I went to [HackPrinceton](https://hackprinceton-spr17.devpost.com/) with my friend [Jared Lim](https://junyounglim.github.io/), a CS major here at Cornell. We wanted to apply our machine learning experience with to build something useful. We learned about IBM Watson's API at the hackathon which greatly facilitated otherwise complicated tasks such as natural language processing. We teamed up with Jia Wei, another Cornellian, and after throwing around ideas, we went with one of my ideas: predicting stock values in the short run. Using datasets from the past, we could generate predictions of the future using ensemble regression methods. However, to account for day-to-day fluctuations, we would use article headlines from Google News collected by webhose.io and evaluate the relative tone using Watson API's natural language processing abilities and translational abilities. Then, if company X had some issue, the newsfeed would likely deliver a net negative tone which we could translate to a falling stock price the next day. Given a number of articles and how "negative" or "positive" the emotions associated with the headlines were, we could even be able to train our algorithm to quantify the degree of the fall in price. Hopefully, that'd allow the software to project stock price in real time.
 
 
 
@@ -50,7 +50,7 @@ I had a great time at my first hackathon. In the future, I'd like to take better
 
 
 
-{{< figure src="/img/stocktalk1.jpg" title="Pre-self deprivation photo-op" >}}
+{{< figure src="/img/stocktalk1.jpg" title="Pre-sleep deprivation" >}}
 
 
 
