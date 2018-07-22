@@ -11,7 +11,7 @@ tags = []
 summary = "StockTalk, a stock price prediction tool from my first hackathon"
 
 # Optional image to display on homepage.
-image_preview = "stocktalk0.png"
+image_preview = "stocktalk0.jpg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -25,7 +25,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "stocktalk0.png"
+image = "stocktalk0.jpg"
 caption = ""
 
 +++
