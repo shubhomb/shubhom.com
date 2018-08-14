@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "A checkers bot trained using some of the methods described in the original AlphaGo result."
+summary = "A checkers bot trained using some of the methods described in the original AlphaGo result"
 
 # Optional image to display on homepage.
 image_preview = "checkers.jpg"
