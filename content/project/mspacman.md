@@ -1,5 +1,5 @@
 +++
-title = "Ms.Pac-Man"
+title = "Ms. Pac-Man"
 date = 2018-08-15T12:45:14-04:00
 draft = false
 
@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Learning to play the classic Atari game from image frame inputs
+summary = "Learning to play the classic Atari game from image frame inputs"
 
 # Optional image to display on homepage.
 image_preview = "mspacman0.png"
