@@ -56,7 +56,7 @@ It was at this point I decided to verify the experiment with the Tensorforce lib
 
 This agent shows far better evidence of learning, which means that the first model I made was flawed in its hyperparameter selection. Using Tensorforce, it was easy to compare this with a Proximal-Policy Optimization (PPO) Agent using the same hyperparameters. I did this because PPO is a more popular algorithm in the field today and was easy to implement in Tensorforce.
 
-{{< figure src="/img/mspacman3.jpg" title="Tensorforce DQN Implementation" >}}
+{{< figure src="/img/mspacman3.jpg" title="Tensorforce PPO Implementation" >}}
 
 
 Unfortunately, it looks like the PPO agent did not have the ideal set of hyperparameters to learn a useful policy. As RL researchers are well aware, the same hyperparameters don't work well among different algorithms even for the same problem, underlining the fragility of the algorithms we have today. However, I'd be interested in seeing how a tuned PPO agent performs as compared to a DQN agent for Ms. Pac-Man.  
