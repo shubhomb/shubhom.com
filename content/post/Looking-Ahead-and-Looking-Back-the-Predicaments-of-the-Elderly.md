@@ -1,5 +1,5 @@
 +++
-title = "Looking Ahead and Looking Back the Predicaments of the Elderly"
+title = "Looking Ahead and Looking Back: The Predicaments of the Elderly"
 date = 2018-03-08T23:23:53-04:00
 draft = false
 
