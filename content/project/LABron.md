@@ -1,6 +1,6 @@
 +++
-title = "Magic Mirror"
-date = 2018-12-07T23:54:25-04:00
+title = "LABron"
+date = 2018-12-04T02:45:15-04:00
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -8,13 +8,13 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Gesture-controlled smart mirror"
+summary = "Maze-mapping robot using Arduino"
 
 # Optional image to display on homepage.
-image_preview = "mirror0.jpg"
+image_preview = "LABron0.jpg"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://courses.ece.cornell.edu/ece5990/ECE5725_Fall2018_Projects/sb2287_ayu2/index.html"
+external_link = "https://ece-3400-group.github.io/"
 
 # Does the project detail page use math formatting?
 math = false
