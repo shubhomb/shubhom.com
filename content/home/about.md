@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Deep Reinforcement Learning",
+    "Reinforcement Learning",
     "Intelligent Sensing"
   ]
 
@@ -20,7 +20,7 @@ weight = 5
   institution = "Cornell University"
   year = 2020
 
- 
+
 +++
 
 
