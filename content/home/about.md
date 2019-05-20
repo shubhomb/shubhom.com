@@ -10,8 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Deep Learning",
-    "Reinforcement Learning",
+    "Autonomous Decision Making",
+    "Machine Learning",
     "Intelligent Sensing",
   ]
 
