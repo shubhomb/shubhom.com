@@ -20,7 +20,7 @@ weight = 5
   course = "BS in Electrical and Computer Engineering"
   institution = "Cornell University"
   year = 2019
-
+[[education.courses]]
   course = "M.Eng in Computer Science"
   institution = "Cornell University"
   year = 2020
