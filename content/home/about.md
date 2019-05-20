@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Autonomous Decision Making",
-    "Machine Learning",
+    "Computer Vision",
     "Intelligent Sensing",
   ]
 
