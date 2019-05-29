@@ -60,7 +60,7 @@ Another candidate preprocessing technique was a Gaussian smoothing of the fixed 
 The next preprocessing technique considered was histogram equalization of intensities. For this task , two popular histogram equalization techniques were considered: the exact histogram equalization (EHE) algorithm covered in class and the contrast-limited adaptive histogram equalization (CLAHE) algorithm. For the image registration task in MRI-scans, CLAHE is preferred over EHE because EHE produces unnecessarily high contrasts and transforms intensity relative to global statistics. The registration SSD error for all images using CLAHE as opposed to EHE was significantly smaller. Interestingly, EHE made the registration error worse than that without any histogram equalization by approximately 10-20% per image, while CLAHE improved upon it by about 15%, so CLAHE was kept. Note that these approximate improvements are dependent on other image preprocessing decisions. The chosen parameters for the CLAHE procedure were 8x8 tile size with a clip limit of 2.0, which are the default of the OpenCV package. This meant that in the resulting histogram, the a pixel neighborhood consisted of the 8x8 region in which it was centered and that the top of the histogram was plateaued at an intensity equal to twice the minimum intensity of the neighborhood, with the histogram redistributed when an intensity pushes the peak over the clip limit.
 
 
-{{< figure src="/img/brain4.jpg" title="Histogram transforms of MRI Scans" >}}
+{{< figure src="/img/brain4.png" title="Histogram transforms of MRI Scans" >}}
 
 
 ## Image registration
