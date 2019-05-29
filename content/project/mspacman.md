@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Learning to play the classic Atari game from image frame inputs"
+summary = "Reinforcement learning for a classic Atari game"
 
 # Optional image to display on homepage.
 image_preview = "mspacman0.png"

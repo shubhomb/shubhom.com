@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "StockTalk, a stock price prediction tool from my first hackathon"
+summary = "StockTalk- a stock price prediction tool"
 
 # Optional image to display on homepage.
 image_preview = "stocktalk0.png"
