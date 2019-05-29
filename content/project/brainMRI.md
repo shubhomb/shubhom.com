@@ -60,25 +60,25 @@ Another candidate preprocessing technique was a Gaussian smoothing of the fixed 
 The next preprocessing technique considered was histogram equalization of intensities. For this task , two popular histogram equalization techniques were considered: the exact histogram equalization (EHE) algorithm covered in class and the contrast-limited adaptive histogram equalization (CLAHE) algorithm. For the image registration task in MRI-scans, CLAHE is preferred over EHE because EHE produces unnecessarily high contrasts and transforms intensity relative to global statistics. The registration SSD error for all images using CLAHE as opposed to EHE was significantly smaller. Interestingly, EHE made the registration error worse than that without any histogram equalization by approximately 10-20% per image, while CLAHE improved upon it by about 15%, so CLAHE was kept. Note that these approximate improvements are dependent on other image preprocessing decisions. The chosen parameters for the CLAHE procedure were 8x8 tile size with a clip limit of 2.0, which are the default of the OpenCV package. This meant that in the resulting histogram, the a pixel neighborhood consisted of the 8x8 region in which it was centered and that the top of the histogram was plateaued at an intensity equal to twice the minimum intensity of the neighborhood, with the histogram redistributed when an intensity pushes the peak over the clip limit.
 
 
-{{< figure src="/img/brain4.png" title="Histogram transforms of MRI Scans" >}}
+{{< figure src="/img/brain4.jpg" title="Histogram transforms of MRI Scans" >}}
 
 
 ## Image registration
 
-In the registration problem, a moving image and a fixed image should be aligned as closely as possible. The objective function used to determine how close two images are was the sum-of-squared differences (SSD), with an added regularization term γ to encourage small transformation parameters, though this did not have a significant effect on registration results. At fifrst, a geometric transformation (rotation, scale, 2-D shift) was considered. Later, a 2-D scaling was enabled and the general class of affine transformations was considered. In most cases, the provided training/validation images were similarly scaled to begin with so scale parameters were between 0.9 and 1.1 in both directions, and significant translations (>10 pixels) were not observed.
+In the registration problem, a moving image and a fixed image should be aligned as closely as possible. The objective function used to determine how close two images are was the sum-of-squared differences (SSD), with an added regularization term γ to encourage small transformation parameters, though this did not have a significant effect on registration results. At first, a geometric transformation (rotation, scale, 2-D shift) was considered. Later, a 2-D scaling was enabled and the general class of affine transformations was considered. In most cases, the provided training/validation images were similarly scaled to begin with so scale parameters were between 0.9 and 1.1 in both directions, and significant translations (>10 pixels) were not observed.
 
-{{< figure src="/img/brain1.png" title="Sample Image Transformation" >}}
+{{< figure src="/img/brain1.jpg" title="Sample Image Transformation" >}}
 
 For the optimization routine used in the registration, a derivative-free algorithm was deemed desirable in place of a derivative-based method like gradient descent. The Nelder-Mead simplex method was the first candidate algorithm, but this method was slower than the Powell conjugate direction method adopted later. To ensure better optimization results, 1,000 iterations were allowed (though no registration took 1,000 iterations) and the convergence criterion parameter was decreased from the default of 1e-4 to 1e-7.
 
 ## Label fusion strategies
 The naïve mode-based label fusion strategy consisted of taking a mode of the segmentation for a pixel along all training images to decide the labels of the test segmentation.
 
-{{< figure src="/img/brain2.png" title="Majority voted label fusion technique" >}}
+{{< figure src="/img/brain2.jpg" title="Majority voted label fusion technique" >}}
 
 The natural next step was to reduce uncertainty by having labels in the majority vote with discrepancy removed. After taking the mode of the segmentations produced by the training images, the pixels with disagreement over some “bound” parameter were removed. This occurred most often near the boundaries of ROIs, as can be seen in the image below:
 
-{{< figure src="/img/brain3.png" title="Modified label fusion technique" >}}
+{{< figure src="/img/brain3.jpg" title="Modified label fusion technique" >}}
 
 
 The intuition behind this modified voting process was that the “agreed upon” regions of overlap would prevent false negatives from occurring in the segmentation near boundary regions. However, this proved not to significantly alter the validation or test results, generating slight improvement if any.
