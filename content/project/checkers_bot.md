@@ -8,7 +8,7 @@ draft = false
 tags = ["deep learning", "reinforcement learning"]
 
 # Project summary to display on homepage.
-summary = "A checkers bot trained using the methods from AlphaGO"
+summary = "A checkers bot trained using AlphaGo methods"
 
 # Optional image to display on homepage.
 image_preview = "checkers.jpg"
