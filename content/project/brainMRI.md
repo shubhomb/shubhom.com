@@ -8,7 +8,7 @@ draft = false
 tags = ["signal processing", "medical imaging"]
 
 # Project summary to display on homepage.
-summary = "Automated mid-coronal MRI registration and segmentation"
+summary = "Automated MRI segmentation of four ROIs"
 
 # Optional image to display on homepage.
 image_preview = "altbrain.jpg"
