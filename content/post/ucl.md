@@ -1,6 +1,6 @@
 +++
 title = "The Champions League Final"
-date = 2018-03-08T23:23:53-04:00
+date = 2019-05-31T23:23:53-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
