@@ -23,7 +23,7 @@ preview = true
 
 +++
 
-Anybody that knows me knows that soccer is one of my greatest passions. Tomorrow, my club Tottenham Hotspur will face Liverpool to play for the most prestigious trophy in club soccer- the Champions League, formerly known as the European Cup. On this occasion, and before I celebrate or mull about what the actual result may be, I want to describe what is something of a spiritual journey for me.
+Anybody that knows me knows that soccer is one of my greatest passions. Tomorrow, my club Tottenham Hotspur will face Liverpool to play for the most prestigious trophy in club soccer- the Champions League, formerly known as the European Cup. On this occasion, and before I celebrate or mull about what the actual result may be, I want to describe what is something of a spiritual journey for me. <!--more-->
 
 
 I started supporting Tottenham in 2011, when the club was led by the outspoken and thoroughly British Harry Redknapp. The club’s underdog identity and perhaps idealistic emphasis on footballing style had a certain romance that I was instantly drawn to. Back then, Spurs were led by three terrific footballers: Luka Modric, Gareth Bale, and Rafael van der Vaart; while others had their moments, it was these three that led Spurs to the 2010-11 Champions League quarterfinals run in their first-ever participation in the tournament, which included a defeat of European champions Inter Milan  and the elimination of A.C. Milan. I was instantly enamored by their beautiful and daring play, and the first mainstream English Premier League television coverage in the United States that year enabled me to follow this exciting team more every week.
