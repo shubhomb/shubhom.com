@@ -44,12 +44,31 @@ Things changed after Sherwood’s dismissal in summer 2015. A new coach named Ma
 
 This Champions League campaign has gifted fans some incredible moments. All Spurs fans today will remember these for the rest of their lives: finishing with 1 point from 9 in the first 3 matches, narrowly qualifying to the knockouts after drawing with Barcelona away, outclassing German powerhouses Borussia Dortmund in the first knockout stage, beating English rivals Manchester City in the most dramatic fashion in the quarters, and then topping that with the Lucas Moura strike that defeated Dutch giants Ajax in the sixth minute of stoppage time in Amsterdam. There have been unlikely heroes on like Fernando Llorente and Moura, and the team has rebounded from great adversity, including injury to talisman and top goalscorer Harry Kane.
 
+<iframe width="560" height="315"
+src="http://www.youtube.com/watch?v=FiuiVtg0Dq8"
+frameborder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
 
+
+<iframe width="560" height="315"
+src="http://www.youtube.com/watch?v=gt4-k50b0rM "
+frameborder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+
+
+<iframe width="560" height="315"
+src="http://www.youtube.com/watch?v=pnbvGQ3klak "
+frameborder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+<!--
 [![](http://img.youtube.com/vi/FiuiVtg0Dq8/0.jpg)](http://www.youtube.com/watch?v=FiuiVtg0Dq8 "")
 
 [![](http://img.youtube.com/vi/gt4-k50b0rM/0.jpg)](http://www.youtube.com/watch?v=gt4-k50b0rM "")
 
 [![](http://img.youtube.com/vi/pnbvGQ3klak/0.jpg)](http://www.youtube.com/watch?v=pnbvGQ3klak "")
-
+-->
 
 Now is an incredible time to be a Spurs fan, a new era in the history of a storied club. This year, a new stadium was opened, one of the most advanced football stadiums in the world. Tomorrow Tottenham will play in the biggest game in its 137 year history, a match that generations of fans have likely dreamed of witnessing. We should be forgiven for feeling that we are on the precipice of something great- it’s been a long time coming.  Win or lose, tomorrow’s match hopefully marks the first of many Champion’s League finals, as we push to be European elite.
