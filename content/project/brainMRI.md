@@ -38,14 +38,14 @@ Another class of problems encountered in the larger computer vision community is
 
 In this project, a method for middle-coronal registration and segmentation was realized using 6 training and 2 validation samples, each of which had a manually segmented and non-segmented version that labeled four portions of the brain:  Left Cerebral Cortex, Right Cerebral Cortex, Left White Matter, and Right White Matter. The general structure of the imaging pipeline was as follows:
 
-a)	Image preprocessing
-b)	Registering training (moving) images to validation (fixed)
-a.	Image transformation
-b.	Interpolation
-c.	Optimization on defined objective
-c)	Applying optimal transformation parameters to corresponding segmentations
-d)	Label fusion strategy
-e)	Similarity metric (e.g. Jaccard) between automatic and manual segmentation
+*	Image preprocessing
+*	Registering training (moving) images to validation (fixed)
+   * Image transformation
+   * Interpolation
+   *  Optimization on defined objective
+*	Applying optimal transformation parameters to corresponding segmentations
+*	Label fusion strategy
+*	Similarity metric (e.g. Jaccard) between automatic and manual segmentation
 
 The intuition for this pipeline is as follows: we have a total of 8 training/validation samples with labeled segmentations provided by human experts (the "manual" segmentations). We want to take a given test subject's MRI scan, perform transformations such that the images are aligned as closely as possible, and then use the segmentations we have from human experts of the training images to automatically produce a segmentation of the new test scan ("automatic"). Of course, during training, we do not have access to test subjects, so we use 2 of the 8 training samples as validation subjects.
 
