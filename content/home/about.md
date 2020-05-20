@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Machine Learning",
     "Computer Vision",
-    "Intelligent Sensors",
+    "Reinforcement Learning",
+    "Game Theory"
   ]
 
 # List your qualifications (such as academic degrees).
