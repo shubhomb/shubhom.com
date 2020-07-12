@@ -30,4 +30,6 @@ weight = 5
 
 # Hey!
 ## Welcome to my website.
-I'm a M.Eng candidate at Cornell University in Ithaca, New York. Currently, I'm studying [Computer Science](https://www.cs.cornell.edu/) with the intention of finding new ways to leverage the immense capabilities artificial intelligence provides. Outside of work, I'm a huge soccer fan and enjoy spending time with my friends and family. In creating this site, my goal is to share a bit about myself and the things I'm working on periodically. Take a look around and feel free to contact me if you have questions, concerns, or want to discuss anything!
+I'm a data scientist at [M Science] (https://mscience.com/) in New York, New York. I like to think about new ways to responsibly leverage the immense capabilities artificial intelligence provides, including the social and environmental issues we face today. As part of that, I also work with [Greenstand](https://greenstand.org/home) on computer vision and data analysis problems.  
+
+Outside of work, I'm a huge soccer and basketball fan and enjoy spending time with my friends and family. In creating this site, my goal is to share a bit about myself and the things I'm working on periodically. Take a look around and feel free to get in touch!

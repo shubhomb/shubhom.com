@@ -5,14 +5,14 @@ widget = "publications"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Academic Writing"
+title = "Technical Reports"
 subtitle = ""
 
 # Order that this section will appear in.
 weight = 60
 
 # Number of publications to list.
-count = 1
+count = 2
 
 # List format.
 #   0 = Simple
