@@ -35,43 +35,56 @@ I think it'd be unfair to write this without trying to demonstrate that the cand
 
 My goal here is to look at their other qualities they present, and I'll structure this as a list of pros and cons of each candidate, that I've found via Wikipedia and other sources (cited if they're not from Wikipedia). Keep in mind that you can fact check these yourself if you're not convinced: I'm happy to change this if something is incorrect or not fairly covered.
 
-###Jon Ossoff
-####Pros:
+
+### Jon Ossoff
+
+
+#### Pros:
 - CEO Insight TWI, a investigative journalism company that made films about human rights and the ebola outbreak, among other things.
 - interned for John Lewis in high school. Even if he got John Lewis coffee *once* that's a cool connection.
 
 
-####Cons:
+#### Cons:
 - Accused of being privileged in background: this may be true, he went to a pretty expensive private school nearby called Paideia.
 
 
-###David Purdue
-####Pros:
+### David Purdue
+
+
+#### Pros:
 - As an exec at Reebok and Dollar General, he did a good job revitalizing business for both
 
-####Cons:
+
+#### Cons:
 - 7th richest Senator
-- May traded have on private COVID-19 information ([AJC] (https://www.ajc.com/news/state--regional-govt--politics/david-perdue-stock-trading-saw-uptick-coronavirus-took-hold/MRWmzwXeHgxi6IcmBbPgaN/)). He said financials planners did it on his behalf.
+- May traded have on private COVID-19 information ([AJC](https://www.ajc.com/news/state--regional-govt--politics/david-perdue-stock-trading-saw-uptick-coronavirus-took-hold/MRWmzwXeHgxi6IcmBbPgaN/)). He said financials planners did it on his behalf.
 - Ran an antisemitic ad against Jon Ossoff (see the ad [here](https://forward.com/news/national/451581/jon-ossoff-jewish-nose-david-perdue-antisemitic/))
-- "Kah-mah-la or Kah-ma-la or Kamamboamamla" mocking VP-elect Kamala Harris's name  ([Politico] (https://www.politico.com/news/2020/10/16/david-perdue-mocks-kamala-harris-name-429996)) which he certainly must have known how to pronounce after working with her in the Senate for years
+- "Kah-mah-la or Kah-ma-la or Kamamboamamla" mocking VP-elect Kamala Harris's name  ([Politico](https://www.politico.com/news/2020/10/16/david-perdue-mocks-kamala-harris-name-429996)) which he certainly must have known how to pronounce after working with her in the Senate for years
 - Skipped debate with Jon Ossoff to go to a Trump rally ([The Hill](https://thehill.com/homenews/house/523500-georgia-senator-to-skip-debate-after-democratic-rival-goes-viral))
 
 
-###Raphel Warnock
-####Pros:
+### Raphel Warnock
+
+
+#### Pros:
 - grew up in Savannah's housing projects
 - head pastor at Ebenezer Baptist Church, where Dr. Martin Luther King Jr. was also head pastor
-- on the record saying [he loves puppies] (https://www.huffpost.com/entry/raphael-warnock-puppies-ad-kelly-loeffler_n_5fa53378c5b660095698eed7)
-####Cons:
+- on the record saying [he loves puppies](https://www.huffpost.com/entry/raphael-warnock-puppies-ad-kelly-loeffler_n_5fa53378c5b660095698eed7)
+
+
+#### Cons:
 - may have ran over his wife's foot, accidentally
 
-###Kelly Loeffler
-####Pros:
+### Kelly Loeffler
+
+
+#### Pros:
 - Has a cool trajectory from farm work to businesswoman
 - CEO of a company that does stuff with Bitcoin
 - co-owner of WNBA Atlanta Dream and advocates women's empowerment in the workplace ([AJC](https://www.ajc.com/sports/risk-hoops-memories-entice-new-dream-owner-loeffler/WDPsGpIV66px3SsHgkA7FP/))
 
-####Cons:
+
+#### Cons:
 - the company she was CEO of is owned/founded by her husband who also is chairman of the New York Stock Exchange
 - the Atlanta Dream support Warnock a lot more ([MSN](https://www.msn.com/en-us/sports/more-sports/wnba-players-endorsed-the-opponent-of-atlanta-dream-co-owner-kelly-loeffler-to-help-force-a-runoff-for-georgia-s-senate-seat/ar-BB1aLy7j)) in large part due to Loeffler's anti-BLM rhetoric
 - Richest senator: #1 in the Senate with estimated wealth around $500 million.
@@ -87,16 +100,16 @@ The unique Georgia runoff election is a second shot for Warnock and Ossoff to wi
 
 
 ## Things to Do
-What can we do? First, for friends that are in Georgia, please go vote if you're eligible and convince your other friends too as well. The assumption about runoff elections is that they're catered towards "base voters", but even if you don't consider yourself part of a "base", the consequences are enough that you should show up. Unsure if you're registered? Visit [vote.org](https://www.vote.org/am-i-registered-to-vote/). The deadline to do this is [December 7](https://sos.ga.gov/admin/files/2020%20Revised%20Short%20Calendar.pdf). Need to register or don't know where to vote? Check out the[Georgia voter page](https://www.mvp.sos.ga.gov/MVP/mvp.do). Need an absentee ballot? Here's [how to get one](https://georgia.gov/vote-absentee-ballot). If you're thinking about it and can set aside some time, sign up to phone bank, text bank, be a poll worker, or go canvassing safely.
+What can we do? First, for friends that are in Georgia, please go vote if you're eligible and convince your other friends too as well. The assumption about runoff elections is that they're catered towards "base voters", but even if you don't consider yourself part of a "base", the consequences are enough that you should show up. Unsure if you're registered? Visit [vote.org](https://www.vote.org/am-i-registered-to-vote/). The deadline to do this is [December 7](https://sos.ga.gov/admin/files/2020%20Revised%20Short%20Calendar.pdf). Need to register or don't know where to vote? Check out the [Georgia voter page](https://www.mvp.sos.ga.gov/MVP/mvp.do). Need an absentee ballot? Here's [how to get one](https://georgia.gov/vote-absentee-ballot). If you're thinking about it and can set aside some time, sign up to phone bank, text bank, be a poll worker, or go canvassing safely.
 
 
 I encourage everyone who legally and financially is able to [donate](https://secure.actblue.com/donate/georgiasenate). This is important even if you're not from here because [a large portion of both Democrat candidates' fundraising comes from out-of-state and small donors](https://www.opensecrets.org/news/2020/11/georgia-senate-runoffs-spending-continues/). Here are some places that could use your money:
 
 
-- [Win Both Seats] (https://www.winbothseats.org/)  allows your donation to go towards several Georgia voting orgnizers (including Fair Fight and New Georgia Project)
+- [Win Both Seats](https://www.winbothseats.org/)  allows your donation to go towards several Georgia voting orgnizers (including Fair Fight and New Georgia Project)
 - [Fair Fight signup page](https://fairfight.com/join-our-fight/)
-- [New Georgia Project] (https://newgeorgiaproject.org/)
-- [Ossoff campaign page] (https://go.electjon.com/page/s/web-volunteer)
-- [Warnock campaign page] (https://warnockforgeorgia.com/take-action/)
+- [New Georgia Project](https://newgeorgiaproject.org/)
+- [Ossoff campaign page](https://go.electjon.com/page/s/web-volunteer)
+- [Warnock campaign page](https://warnockforgeorgia.com/take-action/)
 
-Lastly, if you're more interested in learning about the evolving demographics in Georgia and some of the factors behind Georgia's political shift, I recommend checking out [The Abrams playbook] (https://fairfight.com/wp-content/uploads/2019/09/TheAbramsPlaybook.pdf). 
+Lastly, if you're more interested in learning about the evolving demographics in Georgia and some of the factors behind Georgia's political shift, I recommend checking out [The Abrams playbook](https://fairfight.com/wp-content/uploads/2019/09/TheAbramsPlaybook.pdf).
