@@ -27,7 +27,9 @@ preview = true
 ## A Big Deal
 
 The most recent election has at once been incredibly disheartening, incredibly relieving, and incredibly exhausting for a lot of people. Yet due to a variety of factors, the state of American government is still far from certain. As you may know, I am from Georgia, the state which incredibly swung blue for Joe Biden and is going to not one but two Senate runoff races that determine whether the next US government is characterized by gridlock or progress. In this political climate, I feel compelled to share some thoughts and encourage you to partake in what is an often frustrating and sometimes distant political process but something I feel is crucial at this moment, especially given the absurdly thin margins Georgia saw in the presidential race. If you care about any issue at all, whether you're from here or not, what happens in Georgia over the next several weeks can have a great impact in your day-to-day life: decisions about COVID-19 relief, criminal justice, climate change, and more hinge upon these runoffs. If none of that sways you, here are some other reasons I will try to personally sway you to contribute to the Georgia cause:
+
 - my birthday is coming up
+
 - the holiday season, also, is coming up
 
 ## Personal Merits
@@ -124,4 +126,4 @@ I encourage everyone who legally and financially is able to [donate](https://sec
 - [Ossoff campaign page](https://go.electjon.com/page/s/web-volunteer)
 - [Warnock campaign page](https://warnockforgeorgia.com/take-action/)
 
-Lastly, if you're more interested in learning about the evolving demographics in Georgia and some of the factors behind Georgia's political shift, I recommend checking out [The Abrams playbook](https://fairfight.com/wp-content/uploads/2019/09/TheAbramsPlaybook.pdf). 
+Lastly, if you're more interested in learning about the evolving demographics in Georgia and some of the factors behind Georgia's political shift, I recommend checking out [The Abrams playbook](https://fairfight.com/wp-content/uploads/2019/09/TheAbramsPlaybook.pdf).
