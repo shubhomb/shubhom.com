@@ -1,5 +1,5 @@
 +++
-title = "Georgia on My Mind, but More than Usual"
+title = "Georgia on My Mind"
 date = 2020-11-12T23:24:04-04:00
 draft = false
 
