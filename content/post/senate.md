@@ -1,5 +1,5 @@
 +++
-title = "Georgia on My Mind"
+title = "Georgia Senate Runoffs"
 date = 2020-11-12T23:24:04-04:00
 draft = false
 
