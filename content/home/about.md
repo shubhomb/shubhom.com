@@ -10,9 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Machine Learning",
     "Computer Vision",
-    "Reinforcement Learning",
+    "Computational Neuroscience",
     "Game Theory"
   ]
 
@@ -28,8 +27,7 @@ weight = 5
 +++
 
 
-# Hey!
-## Welcome to my website.
-I work with computer vision at [Nirenberg Neuroscience] (https://nirenbergneuroscience.com/) in New York, New York. I like to think about new ways to responsibly leverage the immense capabilities artificial intelligence provides, including the social and environmental issues we face today. As part of that, I also work with [Greenstand](https://greenstand.org/home) on a variety of machine learning problems.  
+# Hello!
+Welcome to my site! I'm an engineer working on computer vision and an optogenetic prosthetic at [Bionic Sight](https://www.bionicsightllc.com/) in New York City. I like to think about new ways to responsibly leverage the immense capabilities artificial intelligence provides, especially with regards to social and environmental issues we face today. As part of that, I  work with [Greenstand](https://greenstand.org/home) on a variety of machine learning problems in my free time.
 
-Outside of work, I'm a huge soccer and basketball fan and enjoy spending time with my friends and family. In creating this site, my goal is to share a bit about myself and the things I'm working on periodically. Take a look around and feel free to get in touch!
+Outside of work, I'm a big fan of soccer and basketball and enjoy learning new things about the world, through the arts, travel, or through my family and friends. I certainly enjoy writing- this website contains essays I write periodically about a variety of topics, but I also semi-regularly post creative writing on [my newsletter](https://shubhom.substack.com/).

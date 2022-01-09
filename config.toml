@@ -58,11 +58,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Shubhom Bhattacharya"
-  role = "AI stuff @"
+  role = "Engineering @"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Nirenberg Neuroscience", url = "https://nirenbergneuroscience.com/" }
+  organizations = [ { name = "Bionic Sight", url = "https://www.bionicsightllc.com/" }
   ,  {name="Greenstand", url="http://greenstand.org/"}
   ]
 
