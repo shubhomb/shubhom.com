@@ -39,14 +39,14 @@ The ideas for our treatment were formed by [my boss Sheila Nirenberg and her res
 ## A Photon's Journey
 Images that you perceive are formed in your brain based on light entering your eye. After passing through the lens of your eye, photons of light first hit specialized neurons in the retina called photoreceptors, which are subdivided into rods and cones.  Photoreceptors generate signals depending on the wavelength and intensity of the light coming in. Rods are mostly found in the periphery of your vision,  designed for low-light conditions, and are agnostic to color, which is why you see less color at nighttime. Cones are attuned to colors and are concentrated in the center of your vision, so you see the most detail with them. Light is converted to electrical energy at the photoreceptor level in a process called phototransduction. Phototransduction is a multi-step process, starting with photons hitting a class of proteins in the photoreceptors called "opsins" that contain a substance called retinal. Retinal's structure changes when hit with photons of a particular wavelength, which begins a series of biochemical processes that result in an electrical potential to be created from the photoreceptors. Light intensity is directly proprtional to the number of incident photons, so brighter light leads to a higher likelihood of phototransduction in each photoreceptor. Figure 1 is a good visualization I found for this- one counterintuitive and often confusing detail is that RGCs are closest to the center of the eye and photoreceptors are nearer to the back, meaning light passes through the later layers of the retina prior to encountering photoreceptors.
 
-![Layers of the retina, from https://mammothmemory.net/biology/organs-and-systems/the-eye/rods-and-cones.html](/static/img/opto1.jpg)
+![Layers of the retina, from https://mammothmemory.net/biology/organs-and-systems/the-eye/rods-and-cones.html](/img/opto1.jpg)
 *Figure 1: Rods and cones*
 
 
 The neural network inside your retina connects these photoreceptors to several intermediate layers of cells  which aggregate, filter, and align the signal from the large number of photoreceptors. The transformed signal reaches a final layer called the "retinal ganglion cell" (RGC) layer. Each RGC has a patch of photoreceptors it is connected to via the aforementioned intermediate cells. Different types of RGCs confirm whether the middle of that patch or the surround of that patch are receiving light, and vary by patch size and color. The signal then leaves the retina onto the optic nerve, which transports it to a part of the thalamus of the brain called the lateral geniculate nucleus (LGN). Things get more complicated at the brain, where patches of LGN neurons respond to orientations of ganglion cells. The signal then goes to the back of your brain (occipital lobe) in a place called the visual cortex (aka visual area 1 (V1) aka Brodmann area 17 aka striate cortex). The cortex is a word for the outer part of the cerebrum of the brain, which is the wrinkly looking thing you probably think about when you think of a brain. At this point, you start performing higher-level processing, combining the visual information you've received with background knowledge to recognize, associate, or trigger reactions to what you're seeing, which happens in various other parts of the brain in ways that are yet to be fully understood.
 
 
-![Visual pathway, modified from https://www.perkins.org/the-visual-pathway-from-the-eye-to-the-brain/](/static/img/opto2.jpeg)
+![Visual pathway, modified from https://www.perkins.org/the-visual-pathway-from-the-eye-to-the-brain/](/img/opto2.jpeg)
 
 *Figure 2: The visual pathway*
 
@@ -55,7 +55,7 @@ When I say something is "responding" or "activating", it might be unclear what t
 
 Electrical activity in neural networks is caused by potential differences across membranes. Ionic gates (gates that let out or let in a specific ion, like Na+) in the membrane control the potential across the membrane, and these potential differences move down the axon to synapses. This traveling electrical signal is processed by other neurons, and can lead to neutotransmitter release and other biochemical reactions.
 
-![Neuron, modified from https://askabiologist.asu.edu/neuron-anatomy](/static/img/opto3.jpg)
+![Neuron, modified from https://askabiologist.asu.edu/neuron-anatomy](/img/opto3.jpg)
 *Figure 3: The visual pathway*
 
 
@@ -65,7 +65,7 @@ What would happen if some portion of a neural network stopped working? This may 
 Optogenetics is a promising answer that plays well within these constraints. At the highest level, a neuron that previously was not firing creates new ionic gates which are responsive to external light. This development occurs because the neuron is expressing a gene brought to it by a viral vector (not one that self-replicates, just a carrier that inserts genetic information into the neutron). The genetic information and physical viral dynamics can be used to specify which kinds of neurons get infected. Once infected, a light of a particular wavelength can open and close more of the gates that determine membrane voltage, thereby triggering action potentials that weren't being produced before. This is an improvement over, say, an array of electrodes because it offers a much more precise delivery that doesn't require a permanent invasive apparatus.
 
 
-![Optogenetics, from https://kids.frontiersin.org/articles/10.3389/frym.2017.0n0051](/static/img/opto4.jpg)
+![Optogenetics, from https://kids.frontiersin.org/articles/10.3389/frym.2017.0n0051](/img/opto4.jpg)
 *Figure 4: An overview of optogenetics. ChR2 is an example of one type of opsin.*
 
 
