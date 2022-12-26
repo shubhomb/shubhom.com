@@ -1,0 +1,168 @@
++++
+title = "ChatGPT"
+date = 2022-12-28T23:23:29-04:00
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Shubhom"]
+
+# Tags and categories
+# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+categories = []
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+# Use `caption` to display an image caption.
+#   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
+# Set `preview` to `false` to disable the thumbnail in listings.
+[header]
+image = ""
+caption = ""
+preview = true
+
++++
+
+Following the explosion of ChatGPT-based content, I thought it’d be fun to write prompts for ChatGPT and try using a large-language model (LLM) to rival or mimic things I write about in my free time. If you haven't already tried it, check out [their website](https://chat.openai.com/auth/login).
+
+**Prompt 1: “Can you write a play about New York city daily life?”**
+
+Sure, here's a short play about daily life in New York City:
+
+Scene: A busy street corner in Manhattan.
+
+Characters:
+
+Sam, a young professional
+
+Sarah, a tourist from out of town
+
+Joe, a street vendor
+
+Bob, a local homeless man
+
+(Sam is rushing to work, carrying a cup of coffee and a briefcase. Sarah is taking pictures of the skyscrapers with her phone. Joe is setting up his hot dog stand, and Bob is rummaging through a trash can.)
+
+Sam: (to Sarah) Excuse me, do you know where the nearest subway station is?
+
+Sarah: (looking up from her phone) I'm not sure, I'm just visiting from out of town.
+
+Joe: (to Sam) Hey buddy, you look like you could use a hot dog. I've got the best ones in the city, just $2 a pop.
+
+Sam: (to Joe) Sorry, I'm in a rush. Maybe next time. (to Sarah) Thanks anyway. (hurries off)
+
+Sarah: (to Joe) I'll take one! Can I get it with ketchup and mustard?
+
+Joe: (to Sarah) Sure thing, coming right up. (starts preparing the hot dog)
+
+Bob: (to Joe) Hey, can I get a hot dog too? I'll pay you back when I get my check next week.
+
+Joe: (to Bob) Sorry, buddy. I can't give you a free hot dog. It's tough enough trying to make a living in this city as it is.
+
+Bob: (to Joe) I understand. Thanks anyway. (shrugs and walks away)
+
+(Sarah finishes her hot dog and gives Joe a few dollars. She continues taking pictures of the city as she walks away. The scene fades to black.)
+
+End of play.
+
+
+{{< figure src="/img/chatGPT1.jpg" title="Image 1">}}
+
+
+
+**Prompt 2: “Can you write a play about a New York city morning in the East Village set in a long line for overrated bagels at Tompkin's Square Bagels?”**
+
+Sure, here's a short play set in the East Village on a busy morning at Tompkin's Square Bagels:
+
+Scene: The line outside Tompkin's Square Bagels in the East Village.
+
+Characters:
+
+Jake, a local resident
+
+Lily, a tourist from out of town
+
+Dave, the owner of the bagel shop
+
+Maria, a regular customer
+
+(The line outside the bagel shop is long and bustling with people. Jake is standing near the front, holding a newspaper and a cup of coffee. Lily is a few people behind him, looking at a map of the city. Dave is behind the counter, making bagels and taking orders. Maria is at the front of the line, placing her order.)
+
+Lily: (to Jake) Excuse me, is this the line for Tompkin's Square Bagels? I've heard they have the best bagels in the city.
+
+Jake: (to Lily) Yeah, this is the place. The line is always long, but it's worth the wait. The bagels are really good.
+
+Dave: (to Maria) One everything bagel with cream cheese and lox, coming right up. (starts preparing the bagel)
+
+Maria: (to Dave) Thanks, Dave. I've been coming here for years, and your bagels never disappoint.
+
+Lily: (to Jake) It looks like it's going to be a long wait. I hope it's worth it.
+
+Jake: (to Lily) Trust me, it is. These are the best bagels in the city. You won't be disappointed.
+
+(The line continues to move slowly, but the customers are patient. Dave serves each customer with a smile, and the aroma of freshly baked bagels fills the air. The scene fades to black.)
+
+End of play.
+
+{{< figure src="/img/ChatGPT2.jpg" title="" >}}
+
+
+**Prompt 3: “Can you write a love story about a New York city morning in the East Village set in a long line for overrated bagels at Tompkin's Square Bagels written in the style of Shakespeare in Romeo & Juliet?”**
+
+Sure, here's a love story set in the East Village on a busy morning at Tompkin's Square Bagels, written in the style of Shakespeare's Romeo and Juliet:
+
+Scene: The line outside Tompkin's Square Bagels in the East Village.
+
+Characters:
+
+Romeo, a young man from the Upper East Side
+
+Juliet, a young woman from the Lower East Side
+
+Dave, the owner of the bagel shop
+
+Maria, a regular customer
+
+(The line outside the bagel shop is long and bustling with people. Romeo is standing near the front, holding a bouquet of flowers. Juliet is a few people behind him, holding a book. Dave is behind the counter, making bagels and taking orders. Maria is at the front of the line, placing her order.)
+
+Romeo: (to Juliet) Excuse me, fair maiden, is this the line for Tompkin's Square Bagels? I have heard much of their delicious offerings.
+
+Juliet: (to Romeo) Indeed it is, good sir. The bagels here are the best in the city, though the line is long and the wait is tedious.
+
+Dave: (to Maria) One everything bagel with cream cheese and lox, coming right up. (starts preparing the bagel)
+
+Maria: (to Dave) Thank you, Dave. Your bagels are a joy to my taste buds and a balm to my soul.
+
+Romeo: (to Juliet) Perchance, fair Juliet, would you do me the honor of sharing a bagel with me once we are inside?
+
+Juliet: (to Romeo) It would be my pleasure, Romeo. I have not tasted a bagel as fine as those at Tompkin's Square, and I would be delighted to share one with a fellow connoisseur.
+
+(The line continues to move slowly, but Romeo and Juliet are lost in conversation. Dave serves each customer with a smile, and the aroma of freshly baked bagels fills the air. The scene fades to black.)
+
+End of play.
+
+
+{{< figure src="/img/ChatGPT3.jpg" title="" >}}
+
+
+**Back to me again :)**
+
+A goal of mine in this mini-experiment was to gradually increase how specific the prompt was and test the limits of text synthesis. I doubt 3 prompts are in any way conclusive about the capabilities of the model- considering the enormous space of prompts that can be generated- but I do think this provides some interesting initial takeaways, especially as someone familiar with this field at a cursory level.
+
+In the first play, it was depressingly accurate that the model associated New York with high prices, homelessness, and tourism, while mentioning skyscrapers, the subway, and someone rushing to work with coffee. It seems like a  natural way to view daily life in the city given these mirror the general public’s perception of New York. A reliance on generic viewpoints may lead to few true details or creative liberties in the short section of the play generated.  Essentially, the model has aggregated aspects of New York life and spit out some plausible but boring occurrences in the way that, to be fair, even a real person who had heard of New York solely through tweets and headlines conceivably could end up with. It’s not inaccurate or offensive per se, but this behavior reintroduces an important question in AI ethics- the training corpus is drawn largely from the Internet (82% of the data to be precise), which isn’t celebrated for its reliability or positivity- so to what extent should conversational AI’s be trained on it? Furthermore, social media engagement in the form of texts, emails, Tweets, and so on has high variance from person to person and culture to culture, so “conversational” means something only within some contextual perimeter. I’m optimistic that future work will address these concerns, and regardless, consumer-based applications will be able to fine-tune the model by learning from a particular audience, so these apparent shortcomings have realistic workarounds, even in the short-term.
+
+The second play is a foray into something more specific- a personally relatable experience for me (Tompkins Square Bagels really isn’t all that). Again, the play is realistic but somewhat lacking in terms of creativity. Some details were notable- the everything bagel with cream cheese and lox (though including the flavor of cream cheese would be more realistic) and the tourist looking at the map of the city (though, again, a Google Map may have been more believable). The model ignored my assertion that the bagel was overrated, which *might* just be a difference in opinion but is more likely a level of detail that is difficult to incorporate into a short drama. One machine learning advancement that’s remarkable is ChatGPT’s ability to relate one concept over multiple paragraphs or through the course of a conversation, which demonstrates the significant advancement transformers have provided from the RNN and LSTM days of natural language processing- while I’m not too familiar with NLP, I have played with text generation problems with all three of these types of sequential models in the past, and found this to be true, and it seems to be a strong consensus in the community.
+
+The third play extends the second prompt into stylistic territory. One immediate takeaway is repetition from the second play- as if Dave and Maria are the two most common names in New York, and the last two lines of the plays must be the same. The software running GPT employs some tricks for conversational continuity and likely caches information during a conversation for operational efficiency, so whether that’s a result of the model or the infrastructure is unclear. While ChatGPT fails to comprehend the prompt as intended by making only a few lines “in the style of Shakespeare” and literally naming two characters Romeo and Juliet, the lines it did write as Shakespeare sound adequately Shakespeare-y to me, enough so that it’d be comparable to what I think I would have done if someone had asked me to write a modern adaptation of Romeo & Juliet in a bagel shop line. Indeed, most of the Internet is presumably not written in Elizbethan English, so I was impressed with these lines. I don’t know why the model made the decision to only put Romeo and Juliet’s lines in a different style, but my hunch is that the reinforcement learning aspect of the model generated a policy in this case that yielded a result that was closer to what the prompt asked for than some syntactic or grammatical array of words would have if the same was asked of a pure generative model without reinforcement learning, which would be a valuable step forwards from a GPT-3 model making predictions as-is. Intuitively, it’s an elegant potential method to have generalization in AI-models- broadly, first learning some statistical distributions in terms of letters, words, sentences, and paragraphs, and then using this knowledge to make strategic choices given some conversational context.
+
+There are clear areas for improvement, but it seems like ChatGPT is quite promising for applications in the immediate future, especially for tasks like information retrieval and text summarization. I understand the trepidation that comes with these kinds of AI-advancements, and they’re not unfounded- there’s warranted criticism of inadequate ethical safeguards, misattribution and unpredictable inaccuracies, and antagonistic agents that can take advantage of systems using models like ChatGPT. These concerns should be addressed before mainstream society incorporates AI-tools into daily life. In fact, I’m somewhat surprised ChatGPT has gotten the level of attention it has, and I’m not sure it should be heralded as a milestone in machine learning any more than AlphaGo, AlphaFold, DALL-E, and so on, but the winds of publicity are well-outside of my domain and expertise- but I do know it's important to follow the guidance of researchers, including AI policy analysts and ethicists,  whose expertise should outweigh outsider's looking to build profitable apps first and foremost. That pessimism aside, the most exciting aspect of this to me is that applications like ChatGPT and Midjourney have allowed people outside of professional and research circles to engage with cutting-edge AI research in creative, interactive, and meaningful ways.
+
+
+
+If you're curious, here are the prompts used to generate the images in this post (created on NightCafe). Note that I added resolution into the prompts but I think NightCafe sets those a priori, so the output disregarded those directions:
+
+Image 1: "Tompkins Square Bagels in the style of shakespeare, in Victorian England, high-res, 720x1280, in New York City on a Sunday morning"
+
+Image 2: "A bagel store in New York City on a Sunday morning in the style of Shakespeare (Victorian England), high-res, featuring a lot of pigeons"
+
+Image 3: "Shakespeare in the style of an NFT monkey, eating a bagel with cream cheese and lox, high-res "

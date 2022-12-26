@@ -1,11 +1,11 @@
 +++
 title = "Greenstand"
-date = 2022-01-21T12:45:14-04:00
+date = 2023-01-21T12:45:14-04:00
 draft = true
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["machine learning", "finance"]
+tags = ["machine learning"]
 
 # Project summary to display on homepage.
 summary = "A summary of Greenstand's goals"
