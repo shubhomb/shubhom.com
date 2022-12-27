@@ -1,6 +1,6 @@
 +++
 title = "ChatGPT"
-date = 2022-12-28T23:23:29-04:00
+date = 2022-12-26T23:23:29-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -17,7 +17,7 @@ categories = []
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = ""
+image = "chatGPT4.jpg"
 caption = ""
 preview = true
 
@@ -104,7 +104,7 @@ Jake: (to Lily) Trust me, it is. These are the best bagels in the city. You won'
 
 End of play.
 
-{{< figure src="/img/ChatGPT2.jpg" title="" >}}
+{{< figure src="/img/chatGPT2.jpg" title="Image 2" >}}
 
 
 **Prompt 3: “Can you write a love story about a New York city morning in the East Village set in a long line for overrated bagels at Tompkin's Square Bagels written in the style of Shakespeare in Romeo & Juliet?”**
@@ -142,7 +142,7 @@ Juliet: (to Romeo) It would be my pleasure, Romeo. I have not tasted a bagel as 
 End of play.
 
 
-{{< figure src="/img/ChatGPT3.jpg" title="" >}}
+{{< figure src="/img/chatGPT3.jpg" title="Image 3" >}}
 
 
 **Back to me again :)**
@@ -159,7 +159,9 @@ There are clear areas for improvement, but it seems like ChatGPT is quite promis
 
 
 
-If you're curious, here are the prompts used to generate the images in this post (created on NightCafe). Note that I added resolution into the prompts but I think NightCafe sets those a priori, so the output disregarded those directions:
+If you're curious, here are the prompts used to generate the images in this post (created on [NightCafe](https://nightcafe.studio/)). Note that I added resolution into the prompts but I think NightCafe sets those a priori, so the output disregarded those directions:
+
+Post-thumbnail: "A Lo-Fi New York City bagel shop on a winter morning."
 
 Image 1: "Tompkins Square Bagels in the style of shakespeare, in Victorian England, high-res, 720x1280, in New York City on a Sunday morning"
 
