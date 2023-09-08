@@ -10,6 +10,10 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 40
 
+# Number of projects to list.
+count = 2
+
+
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
@@ -41,4 +45,3 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-
