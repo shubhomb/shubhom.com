@@ -10,10 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Computer Vision",
-    "Computational Neuroscience",
-    "Game Theory"
-  ]
+  "Computational Neuroscience",
+  "Computer Vision"
+    ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
