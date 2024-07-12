@@ -61,6 +61,8 @@ The most direct way of accessing information from populations of neurons is by d
 
 ![Patch-clamp technique](/img/recording2.png)
 _Image source: https://www.leica-microsystems.com/science-lab/life-science/the-patch-clamp-technique/_
+
+
 My company Bionic Sight is working on a treatment for vision restoration, which means in part that we’re interested in recording the neurons of the retina and the neurons of the visual cortex in order to determine the behavior of these neurons with respect to treatment. The retinal electrophysiology recording is called an electroretinogram (ERG) and places electrodes on the cornea (surface) of the eye to measure the response of the retina to a given stimulus. An alternative, less invasive option is the electroencephalogram (EEG), which places electrodes directly on the scalp of the. For example, a common EEG procedure called the visually-evoked potential (VEP) tests the patient’s responses to flashes of light by placing electrodes near the back of their head. Similar tradeoffs between information and invasiveness are apparent in all neuroscientific studies. 
 
 For some applications like motor neuroprosthetics, you need less noisy, more population-specific measurements, at the brain level which involves placing electrodes on the cortical surface. This form of brain recording, interchangeably known as intracranial EEG (iEEG) or electrocorticography (ECG, not to be confused with an electrocardiogram), requires surgically removing part of the skull and implanting the electrode on the surface of the brain at a region of interest. Many well-known neuroprosthetic device companies like Neuralink, Precision Neuroscience, and Paradromics are using iEEGs and modifications of iEEGs to record neural populations in the motor cortex to map neural activity to patient intent in an activity like moving a computer mouse cursor. The recently achieved state-of-the art in this area is [a 4,096 electrode implant created by Precision Neuroscience](https://www.fiercebiotech.com/medtech/precision-neuroscience-deploys-4096-electrodes-brain-computer-interface-procedure). 
@@ -75,13 +77,15 @@ The most common functional imaging technique is functional magnetic resonance im
 
 ![An example fMRI showing, with BOLD contrast visible in the reddish regions](/img/recording3.png)
 _Image source: Image from https://www.ndcn.ox.ac.uk/divisions/fmrib/what-is-fmri/how-is-fmri-used_
+
+
 Radiation in non-visible wavelengths that are used in other parts of the body have been adapted to functional imaging in the brain as well. Functional near-infrared spectroscopy (fNIRS) allows noninvasive measurement of hemodynamic response near the cortical surface by taking advantage of the absorption properties of hemoglobin to this form of radiation. fNIRS sensors have been decreasing in size and cost, [making fNIRS a useful modality when subjects need to be allowed to move freely](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6367070/). [Functional ultrasound (fUS)](https://www.nature.com/articles/nmeth.1641) imaging is another promising technique that uses the Doppler effect to localize blood flow. fUS is gaining momentum for its possible clinical application because at high frequencies, it has high spatiotemporal resolution in a portable form factor. Crucially, these techniques all use properties of blood to detect changes in the brain, and vary in their spatiotemporal resolution, depth, and invasiveness. 
 
 However, all functional imaging techniques need to use blood flow as a proxy for neural activity. Magnetoencephalography (MEG), for example, records the magnetic fields created by the electric currents in the brain. The noise present in MEG varies depending on the source of neural activity and presents a higher temporal resolution than fMRI. 
 
 Yet another notable and common functional paradigm in use is positron emission tomography (PET). PET is a functional imaging paradigm used all over the body that introduces radioactive material known as radiotracers and tracks the reaction of the radiotracer at the site of interest. The materials of choice for the brain are oxygen-15, which is used to track to localize oxygenation, and fluorodeoxyglucose (FDG), which is used to localize glucose consumption. Drawbacks here are the requirement of radioactive material, which decays on the order of 2 to 30 minutes depending on the radiotracer, along with stationary and expensive tomography equipment. However, PETs are commonly used to study Alzheimer’s disease because the disease has been observed to have an impact on both oxygen and glucose consumption. 
 
-![PET scan](/img/recording5.png)
+![PET scan](/img/recording5.jpg)
 _Image source: Jens Maus via Wikimedia Commons)_
 
  
@@ -90,7 +94,7 @@ _Image source: Jens Maus via Wikimedia Commons)_
 A last class of imaging tools uses microscopy to look at cellular activity. I had wrongly assumed  that microscopy is reserved for slices of cell tissue, but types of microscopy can in fact be used for observing neurons at single-cell resolution in living organisms, including primates. The technicalities of the different kinds of microscopy are beyond the scope of what I’m covering, but it suffices to say that techniques commonly used in other fields like fluorescence microscopy, light microscopy, and electron microscopy all have applications in neuroscience. For example, a particularly useful form of fluorescence microscopy is calcium imaging, a technique in which calcium indicators are introduced to the brain. This works because neural action potentials are marked by an influx of calcium. While the resolution of this is excellent, it is still invasive (a microscope needs to be inserted into the head) and requires the introduction of a fluorescent indicator. Furthermore, while having single-cell specific information is wonderful, the microscope can only focus on one part of the brain, so activity beyond a very specific region would not be recorded. Functional imaging and optical imaging therefore share some similar constraints. 
 
 
-![Calcium imaging of pyramidal cells](/img/recording4.png)
+![Calcium imaging of pyramidal cells](/img/recording4.jpg)
 _Image source: MIT News, https://news.mit.edu/2012/neuron-imaging-calcium-1017_
 
 ## The Right Choice
