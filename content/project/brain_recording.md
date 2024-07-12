@@ -1,6 +1,6 @@
 +++
 title = "Unraveling the Neural Code"
-date = 2024-07-16T12:45:14-04:00
+date = 2024-07-10T12:45:14-04:00
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -26,12 +26,11 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = ""
-caption = ""
+caption = "recording0.jpg"
 +++
 
 
 ## The Holy Grail
-
 The proverbial holy grail of neuroscience is to translate neural impulses to behavior and vice-versa: cracking the neural code. It's a research goal that holds not only a certain intellectual allure, but also important clinical ramifications. Many neurological and psychiatric diseases, from dementia to depression, addiction, and CTE notoriously lack quantitative definitions or reliable biomarkers, meaning few current scanning methods, blood test, nasal swabs, or questionnaires can give doctors definitive disease prognoses or severity assessments in the way a pulmonologist can see a tumor in an CT-scan or a genetic screen can confirm Down's syndrome. Both the biochemical mechanisms and signal processing capabilities of the brain need to be understood for the advancement of neurotherapeutics.
 
 One of the biggest impediments contemporary neuroscientists face is a lack of tools to record from the animal brain _in vivo_ . The problem is multifold. First, consider the scale: the adult human brain is thought to contain  [85 billion neurons](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2776484/),
