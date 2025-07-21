@@ -58,7 +58,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Shubhom Bhattacharya"
-  role = "PhD Student
+  role = "PhD Student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -225,7 +225,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:sb2287@cornell.edu"
+    link = "mailto:shubhom@rice.edu"
 
   # [[params.social]]
   #   icon = "twitter"
