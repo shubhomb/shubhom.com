@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Neuroengineering"
+    "Neuroengineering",
     "Artificial Intelligence"
     ]
 
@@ -26,7 +26,6 @@ weight = 5
 [[education.courses]]
   course = "PhD  "
   institution = "Rice University"
-  year = 2025-2030
 +++
 
 
