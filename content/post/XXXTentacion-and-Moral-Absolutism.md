@@ -1,7 +1,7 @@
 +++
 title = "XXXTentacion and Moral Absolutism"
 date = 2018-06-18T23:22:03-04:00
-draft = false
+draft = true
 
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -20,7 +20,7 @@ categories = []
 [header]
 image = "xxxtentacion0.jpg"
 caption = "Credit: [Billboard](https://www.billboard.com/files/media/xxxtentacion-press-photo-bw-2018-billboard-1548.jpg)"
-preview = true
+preview = false
 +++
 
 

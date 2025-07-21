@@ -13,7 +13,7 @@ title = "Shubhom"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2023"
+copyright = "&copy; 2025"
 
 theme = "academic"
 enableEmoji = true
@@ -58,17 +58,17 @@ enableGitInfo = false
 
   # Your details.
   name = "Shubhom Bhattacharya"
-  role = "Engineering @"
+  role = "PhD Student
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Bionic Sight", url = "https://www.bionicsightllc.com/" }
-  ,  {name="Greenstand", url="http://greenstand.org/"}
+  organizations = [ { name = "Rice University", url = "https://www.rice.edu/" }
+
   ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "sb2287@cornell.edu"
+  email = "shubhom@rice.edu"
   phone = "(678) 982-6356"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.

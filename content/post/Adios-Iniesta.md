@@ -1,7 +1,7 @@
 +++
 title = "Adios Iniesta"
 date = 2018-05-20T23:23:29-04:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Shubhom"]
@@ -19,7 +19,7 @@ categories = []
 [header]
 image = "iniesta0.jpeg"
 caption = ""
-preview = true
+preview = false
 
 +++
 

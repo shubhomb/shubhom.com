@@ -1,7 +1,7 @@
 +++
 title = "Magic Mirror"
 date = 2018-12-07T23:54:25-04:00
-draft = false
+draft = true
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

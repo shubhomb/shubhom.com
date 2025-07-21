@@ -1,7 +1,7 @@
 +++
 title = "Georgia Senate Runoffs"
 date = 2020-11-12T23:24:04-04:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Shubhom"]
@@ -19,7 +19,7 @@ categories = []
 [header]
 image = "senate0.png"
 caption = "[Image credit](https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/12/0c3e59f1-020a-472b-9f5c-55ea0bca5bcb/thumbnail/1200x630/1577141718fdedace7752319bc7a8cea/georgia-senate-candidates-v2.png)"
-preview = true
+preview = false
 
 +++
 

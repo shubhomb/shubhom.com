@@ -19,7 +19,7 @@ categories = []
 [header]
 image = "messi0.jpg"
 caption = ""
-preview = true
+preview = false
 
 +++
 

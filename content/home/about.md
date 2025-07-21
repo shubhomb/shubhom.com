@@ -10,8 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-  "Computational Neuroscience",
-  "Computer Vision"
+    "Neuroengineering"
+    "Artificial Intelligence"
     ]
 
 # List your qualifications (such as academic degrees).
@@ -23,10 +23,16 @@ weight = 5
   course = "M.Eng in Computer Science"
   institution = "Cornell University"
   year = 2020
+[[education.courses]]
+  course = "PhD  "
+  institution = "Rice University"
+  year = 2025-2030
 +++
 
 
 # Hello!
-Welcome to my site! I'm an engineer at [Bionic Sight](https://www.bionicsightllc.com/) in New York City. My focus is currently on a novel optogenetic prosthetic treatment, called BS01, where I use research of the retina's neural code to restore vision in a pioneering [clinical trial] (https://classic.clinicaltrials.gov/ct2/show/NCT04278131). I also explore computer vision applications of the neural code in robotics. In addition to my work at Bionic Sight, I like to think about new ways to responsibly leverage the immense capabilities artificial intelligence provides, especially with regards to social and environmental issues we face today. As part of that, I  work with [Greenstand](https://greenstand.org/home) on a variety of machine learning problems in my free time.
+Welcome to my site! I'm currently a grad student at Rice University in Houston, Texas researching how artificial intelligence can be used to restore function for pateints with neural disease. Before this, I spent four wonderful years as an engineer at [Bionic Sight](https://www.bionicsightllc.com/) in New York City working on [clinical trial] (https://classic.clinicaltrials.gov/ct2/show/NCT04278131) for a optogenetic retinal prosthetic for blind patients. 
 
-Outside of work, I'm a big fan of soccer and basketball and enjoy learning new things about the world, through the arts, travel, or through my family and friends. I certainly enjoy writing- this website contains essays I write periodically about a variety of topics, but I also semi-regularly post creative writing on [my newsletter](https://shubhom.substack.com/).
+Outside of work, I'm a big fan of soccer and basketball and enjoy learning new things about the world, through the arts, travel, or through my family and friends. I certainly enjoy writing- this website is a work-in-progress for research related writing, but I also semi-regularly post creative writing on [my newsletter](https://shubhom.substack.com/). 
+
+If you're interested in connecting about anything and everything feel free to reach me at shubhom@rice.edu.

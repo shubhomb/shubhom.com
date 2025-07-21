@@ -1,7 +1,7 @@
 +++
 title = "Brain MRI Segmentation"
 date = 2019-05-15T22:29:25-04:00
-draft = false
+draft = true
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

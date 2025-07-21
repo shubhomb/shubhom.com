@@ -1,7 +1,7 @@
 +++
 title = "Book Review: The Audacity of Hope"
 date = 2018-08-27T15:24:04-04:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Shubhom"]
@@ -19,7 +19,7 @@ categories = []
 [header]
 image = "audacity0.jpg"
 caption = ""
-preview = true
+preview = false
 
 +++
 

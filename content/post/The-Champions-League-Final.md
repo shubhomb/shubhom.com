@@ -1,7 +1,7 @@
 +++
 title = "The Champions League Final"
 date = 2019-05-31T13:23:53-04:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Shubhom"]
@@ -19,7 +19,7 @@ categories = []
 [header]
 image = "ucl0.jpg"
 caption = ""
-preview = true
+preview = false
 
 +++
 

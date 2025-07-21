@@ -1,7 +1,7 @@
 +++
 title = "Musings on Biriyani and BLM"
 date = 2020-06-06T23:22:03-04:00
-draft = false
+draft = true
 
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -20,7 +20,7 @@ categories = []
 [header]
 image = "biriyani0.png"
 caption = ""
-preview = true
+preview = false
 +++
 
 
